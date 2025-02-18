@@ -39,6 +39,21 @@ Para agregar cambios y actualizarlos en GitHub, se deben seguir estos pasos:
 
 Si los cambios deben integrarse a la versión principal, se puede crear una solicitud de extracción en GitHub para fusionar las modificaciones con la rama principal del proyecto.  
 
-### Licencia y uso del repositorio  
+**Licencia y uso del repositorio**  
 
-Este repositorio está destinado para fines educativos y de aprendizaje sobre Git, GitHub y programación estructurada. Puede ser utilizado como referencia para la gestión de versiones y la organización de proyectos.
+Este repositorio está destinado para fines educativos y de aprendizaje sobre Git, GitHub y programación estructurada. Puede ser utilizado como referencia para la gestión de versiones y la organización de proyectos.  
+
+Está licenciado bajo **Creative Commons**, lo que permite su uso y distribución bajo ciertas condiciones.  
+
+**¿Qué permite esta licencia?**  
+- Se puede compartir y redistribuir el material en cualquier medio o formato.  
+- Se permite adaptar, modificar y construir sobre el contenido.  
+- Su uso está permitido con fines educativos o de aprendizaje, respetando los términos de la licencia.  
+
+**Condiciones de uso:**  
+- Se debe otorgar **crédito al autor original** del contenido.  
+- No se pueden imponer restricciones legales adicionales que limiten los permisos otorgados por la licencia.  
+- Dependiendo de la variante de la licencia Creative Commons elegida, pueden aplicarse restricciones como **uso no comercial** o **prohibición de modificaciones sin autorización**.  
+
+**Más información:**  
+Para conocer más sobre esta licencia, visita [Creative Commons](https://creativecommons.org/licenses/).  
